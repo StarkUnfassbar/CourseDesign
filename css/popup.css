@@ -100,52 +100,52 @@
 
 
 .popup .popup_content .links_img a:nth-child(1)::before{
-    background-image: url("/img/vk-gray.png");
+    background-image: url("../img/vk-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .popup .popup_content .links_img a:nth-child(1)::after{
-    background-image: url("/img/vk-white.png");
+    background-image: url("../img/vk-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 .popup .popup_content .links_img a:nth-child(2)::before{
-    background-image: url("/img/fb-gray.png");
+    background-image: url("../img/fb-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .popup .popup_content .links_img a:nth-child(2)::after{
-    background-image: url("/img/fb-white.png");
+    background-image: url("../img/fb-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 .popup .popup_content .links_img a:nth-child(3)::before{
-    background-image: url("/img/inst-gray.png");
+    background-image: url("../img/inst-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .popup .popup_content .links_img a:nth-child(3)::after{
-    background-image: url("/img/inst-white.png");
+    background-image: url("../img/inst-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 .popup .popup_content .links_img a:nth-child(4)::before{
-    background-image: url("/img/tw-gray.png");
+    background-image: url("../img/tw-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 .popup .popup_content .links_img a:nth-child(4)::after{
-    background-image: url("/img/tw-white.png");
+    background-image: url("../img/tw-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
