@@ -103,7 +103,7 @@ header .content .link_text{
     color: #d4d4d4;
     font-family: "Roboto-Regular", sans-serif;
     font-size: 24px;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 
     transition: all .1s ease;
 }
@@ -123,7 +123,7 @@ header .links_img a{
     width: 40px;
     height: 40px;
     position: relative;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 }
 
 header .links_img a::before{
@@ -153,52 +153,52 @@ header .links_img a:hover::after{
 
 
 header .links_img a:nth-child(1)::before{
-    background-image: url("/img/vk-gray.png");
+    background-image: url("../img/vk-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 header .links_img a:nth-child(1)::after{
-    background-image: url("/img/vk-white.png");
+    background-image: url("../img/vk-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 header .links_img a:nth-child(2)::before{
-    background-image: url("/img/fb-gray.png");
+    background-image: url("../img/fb-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 header .links_img a:nth-child(2)::after{
-    background-image: url("/img/fb-white.png");
+    background-image: url("../img/fb-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 header .links_img a:nth-child(3)::before{
-    background-image: url("/img/inst-gray.png");
+    background-image: url("../img/inst-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 header .links_img a:nth-child(3)::after{
-    background-image: url("/img/inst-white.png");
+    background-image: url("../img/inst-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 header .links_img a:nth-child(4)::before{
-    background-image: url("/img/tw-gray.png");
+    background-image: url("../img/tw-gray.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 header .links_img a:nth-child(4)::after{
-    background-image: url("/img/tw-white.png");
+    background-image: url("../img/tw-white.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -290,7 +290,7 @@ section.initial .content::after{
     content: "";
     width: 770px;
     height: 770px;
-    background-image: url("/img/initial-img.png");
+    background-image: url("../img/initial-img.png");
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
@@ -332,7 +332,7 @@ section.initial .content a{
     text-decoration: none;
     border-radius: 30px;
     background-color: #005c7d;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
     
 
     transition: all .2s ease;
@@ -455,7 +455,7 @@ section.advantages .content ul li::before{
     content: "";
     width: 30px;
     height: 30px;
-    background-image: url("/img/list_tick.png");
+    background-image: url("../img/list_tick.png");
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
@@ -492,7 +492,7 @@ section.questions .content .accordion .accordion-item button{
     padding-bottom: 5px;
     position: relative;
     box-shadow: none;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 }
 
 section.questions .content .accordion .accordion-item button:hover{
@@ -505,7 +505,7 @@ section.questions .content .accordion .accordion-item button:focus{
 }
 
 section.questions .content .accordion .accordion-item button::after{
-    background-image: url("/img/accordion_arrow.png");
+    background-image: url("../img/accordion_arrow.png");
     position: absolute;
     top: 16px;
     left: 10px;
@@ -546,7 +546,7 @@ section.questions .content .block_href a{
     font-family: "Philosopher-Bold", sans-serif;
     font-size: 36px;
     margin-bottom: 30px;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
     
     transition: all .1s ease;
 }
@@ -574,7 +574,7 @@ section.reviews .content h1{
 section.reviews .content .carousel button span{
     width: 47px;
     height: 47px;
-    background-image: url("/img/carousel-arrow.png");
+    background-image: url("../img/carousel-arrow.png");
     background-repeat: no-repeat;
     background-size: 100%;
     position: absolute;
@@ -652,7 +652,7 @@ section.contact .content .block_href span::before{
     content: "";
     width: 270px;
     height: 110px;
-    background-image: url("/img/contact-arrow.png");
+    background-image: url("../img/contact-arrow.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -671,7 +671,7 @@ section.contact .content .block_href a{
     font-family: "Roboto-Medium", sans-serif;
     font-size: 30px;
     margin: 25px 0 0;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 
     transition: all .1s ease;
 }
@@ -706,7 +706,7 @@ section.contact .content .block_links .links a{
     width: 65px;
     height: 65px;
     position: relative;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 }
 
 section.contact .content .block_links .links a::before{
@@ -736,52 +736,52 @@ section.contact .content .block_links .links a:hover::after{
 
 
 section.contact .content .block_links .links a:nth-child(1)::before{
-    background-image: url("/img/vk-blue.png");
+    background-image: url("../img/vk-blue.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 section.contact .content .block_links .links a:nth-child(1)::after{
-    background-image: url("/img/vk-pink.png");
+    background-image: url("../img/vk-pink.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 section.contact .content .block_links .links a:nth-child(2)::before{
-    background-image: url("/img/fb-blue.png");
+    background-image: url("../img/fb-blue.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 section.contact .content .block_links .links a:nth-child(2)::after{
-    background-image: url("/img/fb-pink.png");
+    background-image: url("../img/fb-pink.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 section.contact .content .block_links .links a:nth-child(3)::before{
-    background-image: url("/img/inst-blue.png");
+    background-image: url("../img/inst-blue.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 section.contact .content .block_links .links a:nth-child(3)::after{
-    background-image: url("/img/inst-pink.png");
+    background-image: url("../img/inst-pink.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 
 section.contact .content .block_links .links a:nth-child(4)::before{
-    background-image: url("/img/tw-blue.png");
+    background-image: url("../img/tw-blue.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
 section.contact .content .block_links .links a:nth-child(4)::after{
-    background-image: url("/img/tw-pink.png");
+    background-image: url("../img/tw-pink.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -817,5 +817,5 @@ footer .content a{
     color: #eeeeed;
     font-family: "Roboto-Regular", sans-serif;
     font-size: 18px;
-    cursor: url("/img/cursor.png"), pointer;
+    cursor: url("../img/cursor.png"), pointer;
 }
