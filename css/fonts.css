@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Philosopher-Regular';
+	src: url('/font_family/Philosopher-Regular.ttf');
+	src: url('/font_family/Philosopher-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Philosopher-Bold';
+	src: url('/font_family/Philosopher-Bold.ttf');
+	src: url('/font_family/Philosopher-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('/font_family/Roboto-Regular.ttf');
+	src: url('/font_family/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Roboto-Italic';
+	src: url('/font_family/Roboto-Italic.ttf');
+	src: url('/font_family/Roboto-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Roboto-Medium';
+	src: url('/font_family/Roboto-Medium.ttf');
+	src: url('/font_family/Roboto-Medium.ttf') format('truetype');
+}
